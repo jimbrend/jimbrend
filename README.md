@@ -60,17 +60,17 @@ Then uhm what else, quite a bit...
 Adobe Photoshop CS2
 
 FTP servers to multiple sites I created between ages 11-15 included on an HP computer:
-
+//
 www.mxodreamwarriors.com (matrix online community)
-
+//
 www.soulsofthefire.com (guild wars 1 guild) 
-
+//
 www.dajwebs.com, personal site dished out emails to the bois
-
+//
 www.thejweb.com
-
+//
 www.checkeredraven.com (Neverwinter community)
-
+//
 www.uhm there's like at least 4-5 more I forgot
 
 So, yeah my Dad told me this was a waste of time I guess?  Indoors all day making websites, I thought it was cool, 
