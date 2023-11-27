@@ -7,8 +7,14 @@ github readme
 cleaner version: 
 
 I still played the 2 spot in high school and setter in volleyball and A/B honor roll
+
+
 Was among first 6,000 to program a quantum computer for IBM
+
+
 Aced Computer Architecture 
+
+
 Aces HTML/CSS and Object Oriented Programming 
 Was capable of skipping 2nd and 7th grade.
 I created 15 websites before I was 14 they included:  
