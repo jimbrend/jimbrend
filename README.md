@@ -57,12 +57,13 @@ Gained some weight, lost it.  Gained more weight.
 Top 0.001% in Apex Legends, PUBG, Rocket League
 
 Placed higher than Doc and Shroud in a competitive setting on stage at Dreamhack Austin 
+top 0.01 in PUBG, multiple in a row 1st placements. Never cheated.   
 
 Killed Shroud twice in Apex (took a selfie with him), and Aceu competively (was crypto in that engagement), others.
 
 Hit 50 layups in a row over 5x
 
-Top 0.001% in Bloodhunt and top 0.01 in PUBG, multiple in a row 1st placements. Never cheated.   
+
 
 (Also, tested some of the first Battle Royale lobbies briefly with Brandon Greene twice in Arma 2 and 3, Dean Hall also cracked a mom joke on me one time when I didn't have space engineers 
 installed)
