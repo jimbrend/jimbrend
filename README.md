@@ -23,6 +23,7 @@ let's instantiate some variables
 string, integer, no
 
 let's just make an object called prefaceToday, or prologueToday...   
+also it looks like Github is not catching my spelling mistakes all with red lines while typing this up, will fix later.
 
 I'd like to preface that my life isn't really that cool, there's millions of military brats like me, it's mostly boring, and uneventful, and I feel I'm mostly just kind of just on an interesting ride?  I guess I coulda worked harder in school, been less lazy.    
 
@@ -37,7 +38,7 @@ While there, it was cool, played Xbox Live... that was fun, had a Compaq, MS-Dos
 
 On the Compaq we also networked with the Alienware for 1v1 battles with the bro in unreal tournament, played online and created D&D like worlds, I mad a really good custom map in Vampire the Masquerade: Redemption.  My online handle there was Saburotsu, we stacked for 1v1 duels, you can max out yor gear and glide around the lobby and 1v1 people with swords and shit.  I also made a custom map called "The Lost Cause Bar."  If you remember this mod you'd walk in and there'd be an NPC looking down that looked like scorpion with a crossbow, pretty funny, and then a dead guy in the corner.  I modded that shit in at like age 9-11?  Bar was stocked too, lotta red wine, pretty dope.  
 
-So then United Offensive mod came out that was really fun, Anti-Gravity mods, sniper mods, clan battles, cool communities (shoutout to the english speakers in GMT+2 where we'd hang out and do cool shit).  I was HeadSh(+)t there.  Oh and wanna come back and toss this in here on my HP later where most of my web design happened, Half-Life 2 was also amazing, lul the old Steam green layout.  
+So then United Offensive mod came out that was really fun, Anti-Gravity mods, sniper mods, macros, learned a lot, was fun(would blast 50 cent's album and Prodigy a lot) clan battles, cool communities (shoutout to the english speakers in GMT+2 where we'd hang out and do cool shit).  I was HeadSh(+)t there.  Oh and wanna come back and toss this in here on my HP later where most of my web design happened, Half-Life 2 was also amazing, lul the old Steam green layout.  
 
 Played that after 9/11 and we moved from 5th grade to 7th grade to Incirlik.  
 
@@ -60,11 +61,11 @@ Adobe Photoshop CS2
 
 FTP servers to multiple sites I created between ages 11-15 included on an HP computer:
 
-www.mxodreamwarriors.com
-www.soulsofthefire.com
-www.dajwebs.com
+www.mxodreamwarriors.com (matrix online community)
+www.soulsofthefire.com (guild wars 1 guild) 
+www.dajwebs.com, personal site dished out emails to the bois
 www.thejweb.com
-www.checkeredraven.com 
+www.checkeredraven.com (Neverwinter community)
 www.uhm there's like at least 4-5 more I forgot
 
 So, yeah my Dad told me this was a waste of time I guess?  Indoors all day making websites, I thought it was cool, 
