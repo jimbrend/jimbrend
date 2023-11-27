@@ -91,7 +91,7 @@ Think me wanting to wear the uniform, probably would have been selfish (feel fre
 Ok so the rest of my tech stack on GitHub, 
 
 Bit of a few years gap here.  Demotivated to computer science, I had in the back of mind I thought it was cliche'
-too easy. 
+too easy. In hindsight not at all and very stupid thought really.
 
 Leant toward electrical engineering, hardware engineering, renewable energies, I guess not really sure.  
 
