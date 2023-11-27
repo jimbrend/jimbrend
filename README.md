@@ -10,7 +10,7 @@ I played the 2 spot in high school and setter in volleyball and A/B honor roll
 
 
 Was among first 6,000 to program a quantum computer for IBM
-(I just applied with a community-college e-mail and requested access to the Q experience etc.)
+(I just applied with a community-college e-mail and requested access to the Q experience etc. I think at the time someone got a text adventure working, and battleship)
 
 Aced Computer Architecture 
 
