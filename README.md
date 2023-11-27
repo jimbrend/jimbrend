@@ -153,7 +153,7 @@ I left out some shit, whatever.  Sorry for cussing.
 
 Oh here's an interaction when I interviewed for a 4-5th job I had on the base?  
 
-I had a model guy after a year or two after high school, he was an officer who became an officer, 2nd lieutenant after working his way as enlisted, 2nd lieutenant - still doing well in enlisted housing.  Helped him spoof his Mac and set up a VPN even though he was in cybersecurity and got his Facebook hacked creating spam and helped him do that to get around a region block to get an update on Xbox since i don't think he knew how or had time to figure that out, helpeda coworker on that at the Base Exchange too...
+I had a model guy after a year or two after high school, he was enlisted who became an officer, 2nd lieutenant after working his way as enlisted, 2nd lieutenant - still doing well in enlisted housing.  Helped him spoof his Mac and set up a VPN even though he was in cybersecurity and got his Facebook hacked creating spam and helped him do that to get around a region block to get an update on Xbox since i don't think he knew how or had time to figure that out, helpeda coworker on that at the Base Exchange too...
 
 Anyway this was my interviewer, this wasn't the same guy, 
 
