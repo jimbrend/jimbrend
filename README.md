@@ -127,7 +127,7 @@ React, Rust, Laravel, idk what the fuck?
 
 So many CMS' Drupal Joomla, I liked php-nuke what is the successor to that my guys? 
 
-So, I think it's all convoluted, design stuff is cool on the frontend and sharing all that shit on twitter is cool but no one realy cares IRL when I talk about it, or maybe they do?  I just think that in my head, trying not to be a buzz killington I do really enjoy it.  I do probably want to pivot to a frontend engineer, iOS engineer, SWE somewhere idk. IP law? Deeper into Computer Science? Or maybe entrepreneurship etc.
+So, I think it's all convoluted, design stuff is cool on the frontend and sharing all that shit on twitter is cool but no one realy cares IRL when I talk about it, or maybe they do?  I just think that in my head, trying not to be a buzz-killington I do really enjoy it.  I do probably want to pivot to a frontend engineer, iOS engineer, SWE somewhere idk. IP law? Deeper into Computer Science? Or maybe entrepreneurship etc.
 
 Making it easy and simple (KISS!) Jack Mallers' say that, that's the hard thing to do. 
 
@@ -152,7 +152,7 @@ I left out some shit, whatever.  Sorry for cussing.
 
 Oh here's an interaction when I interviewed for a 4-5th job I had on the base?  
 
-I had a model guy after a year or two after high school, he was an officer who became an officer, 2nd lietunant after working his way as enlister, 2nd lietuannt - still doing well in enlisted housing.  Helped him spoof his Mac and set up a VPN even though he was in cybersecurity and got his Facebook hacked creating spam and helped him do that to get around a region block to get an update on Xbox since i don't think he knew how or had time to figure that out, helpeda coworker on that at the Base Exchange too...
+I had a model guy after a year or two after high school, he was an officer who became an officer, 2nd lieutenant after working his way as enlisted, 2nd lieutenant - still doing well in enlisted housing.  Helped him spoof his Mac and set up a VPN even though he was in cybersecurity and got his Facebook hacked creating spam and helped him do that to get around a region block to get an update on Xbox since i don't think he knew how or had time to figure that out, helpeda coworker on that at the Base Exchange too...
 
 Anyway this was my interviewer, this wasn't the same guy, 
 
@@ -164,7 +164,7 @@ Who did he hire?  Anyone?  I don't know, that person even worked there longer th
 
 But I need more experience.  Ok so I do.  I already was ~2 years out of college pretty much, where am I gonna work?  What resources, I already had a great computer science background and some education I think, and drafted a pretty good candidate resume, I could have done it I could have learned and ironically I lived there.  Woulda learned the system like the back of my hand and they would have gotten a good 2-15 years out of me if they wanted!  At least!  But I digress, how bout not just hire anyone or someone and leave, that's cool too.  We need more liaisons who are there long-term, invested in the area, cultural liaisons, people familiar with the area.  Or just entirely go then.  
 I want to edit here that I can convey this more eloquently and take more time on it but that's just what's rattling up in this military brat's kid head.  And there are already amazing people maybe a handful, nationals who work for the base in a capacity from engineering to operations (like my mom did), and that they fill that niche/role a bit I describe, but we need more, maybe another department of the Force Support Squadrons etc. Would be great, I often think of that Colonel who built a good relationship with an Afghan general guy who were friends, he left.  The American colonel then calls the Afghan guy from his suburban back yard after he went home, didn't sit right with me that scene he's gone but OK still friends, Afghan friend dies in helicopter few weeks later...   
-Maybe in the future I can write more about or help spur some changes, I don't know.  Life's weird.  I hope the best for everyone, and our developing world.
+Maybe in the future I can write more about or help spur some changes, I don't know.  Life's weird. Don't know what may happen.  I hope the best for everyone, and our developing world.
 
 
 
@@ -177,6 +177,7 @@ More reading in that regard:
 My stuffs: https://linktr.ee/jimSuley
 
 I'll add in what my old websites were like later 
+(I did have an awesome render of Matrix Online characters in an HTML page where when you loaded the other page it did a javscript animation like the mutliple blocks coming together, now in hindsight I think that was a .swf embed too)
 
 probably gonna edit this entire thing later and clean it up, take out the swear words, enjoy it while it lasts
 
