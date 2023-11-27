@@ -39,7 +39,7 @@ While there, it was cool, played Xbox Live... that was fun, had a Compaq, MS-Dos
 On the Compaq we also networked with the Alienware for 1v1 battles with the bro in unreal tournament, played online and created D&D like worlds, I made a really good custom map in Vampire the Masquerade: Redemption.  My online handle there was Saburotsu, we stacked for 1v1 duels, you can max out your gear and glide around the lobby and 1v1 people with swords and shit.  I also made a custom map called "The Lost Cause Bar."  If you remember this mod you'd walk in and there'd be an NPC looking down that looked like scorpion with a crossbow, pretty funny, and then a dead guy in the corner.  I modded that shit in at like age 9-11?  Bar was stocked too, lotta red wine, pretty dope.  
 
 So then United Offensive mod came out that was really fun, Anti-Gravity mods, sniper mods, macros, learned a lot, was fun(would blast 50 cent's album and Prodigy a lot) clan battles, cool communities (shoutout to the english speakers in GMT+2 where we'd hang out and do cool shit).  I was HeadSh(+)t there.  Oh and wanna come back and toss this in here on my HP later where most of my web design happened, Half-Life 2 was also amazing, lul the old Steam green layout.  
-Not too sound concieted here.  Oh I also made some custom Xfire skins, Cool Abstract Art, etc.
+Not too sound conceited here.  Oh I also made some custom Xfire skins, Cool Abstract Art, etc.
 
 Played that after 9/11 and we moved from 5th grade to 7th grade to Incirlik.  
 
