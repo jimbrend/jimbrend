@@ -173,7 +173,7 @@ Peace out y'all I might edit this late or something
 
 I also really enjoyed my OOD and HTML/CSS classes in person, I think it's important to get a fundamental understanding of everything, ground-up like history of machines fetch-decode-execute cycle, math, first computers on to current systems.  I think knowing full well how it all meshes together, means that you are better prepared to tackle a problem as a team and solve something, because you know the ins-and-outs and are confident, we should all be like that. 
 
-More reading in that regard: 
+More reading in that regard: https://jimsuley.substack.com/p/notes-on-computers
 
 My stuffs: https://linktr.ee/jimSuley
 
