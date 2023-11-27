@@ -6,7 +6,7 @@ github readme
 
 cleaner version: 
 
-I still played the 2 spot in high school and setter in volleyball and A/B honor roll
+I played the 2 spot in high school and setter in volleyball and A/B honor roll
 
 
 Was among first 6,000 to program a quantum computer for IBM
