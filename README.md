@@ -78,8 +78,9 @@ Lot of hours in DayZ, PUBG, Apex- too many. 
 Worked at Strike and stuff check my LinkedIn.
 
 More reading in that regard: https://jimsuley.substack.com/p/notes-on-computers
-
+non-clean version: https://github.com/usernameisJim/usernameisjim/blob/main/readMeTwo
 My stuffs: https://linktr.ee/jimSuley
+
 
 
 
