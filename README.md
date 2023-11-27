@@ -29,7 +29,7 @@ I'd like to preface that my life isn't really that cool, there's millions of mil
 So, I was born '91 on an Airfoce Base, 
 Dad was a Captain, retired in '94, previously enlisted Navy and about 20 years served.  
 
-We moved to North Carolina after a bit of a tumultuous civilian transition, he go ta job at Nortel Networks as like a Quality guy. 
+We moved to North Carolina after a bit of a tumultuous civilian transition, he got a job at Nortel Networks as like a Quality guy. 
 
 Lived in the RTP area... ages 6-12. 
 
