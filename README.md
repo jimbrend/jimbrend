@@ -18,7 +18,7 @@ Aces HTML/CSS and Object Oriented Programming
 
 Was capable of skipping 2nd and 7th grade.
 
-I created 15 websites before I was 14 they included:  
+I created 15 websites <16 they included:  
 
 www.dajwebs.com
 
