@@ -34,7 +34,7 @@ We moved to North Carolina after a bit of a tumultuous civilian transition, he g
 
 Lived in the RTP area... ages 6-12. 
 
-While there, it was cool, played Xbox Live... that was fun, had a Compaq, MS-Dos games like cheesy invaders, Igor's Adventure, there was a cool roman platformer if you find it let me know!, and something like a predecessor to divinity I don't quite remember, then on the Compaq played Tomb Raider II man that was a good one.   Magic Carpet 1 & 2, multipayer as well.  
+While there, it was cool, played Xbox Live... that was fun, had a Compaq, MS-Dos games like cheesy invaders, Igor's Adventure, there was a cool roman platformer if you find it let me know!, and something like a predecessor to divinity I don't quite remember, then on the Compaq played Tomb Raider II man that was a good one.   Magic Carpet 1 & 2, multiplayer as well.  
 
 On the Compaq we also networked with the Alienware for 1v1 battles with the bro in unreal tournament, played online and created D&D like worlds, I made a really good custom map in Vampire the Masquerade: Redemption.  My online handle there was Saburotsu, we stacked for 1v1 duels, you can max out your gear and glide around the lobby and 1v1 people with swords and shit.  I also made a custom map called "The Lost Cause Bar."  If you remember this mod you'd walk in and there'd be an NPC looking down that looked like scorpion with a crossbow, pretty funny, and then a dead guy in the corner.  I modded that shit in at like age 9-11?  Bar was stocked too, lotta red wine, pretty dope.  
 
@@ -49,7 +49,7 @@ Aced every assignment, held back after 1st or 2nd quarter with I'll call her by 
 
 She said no I said yes.  She skipped I didn't, Dad again.  
 
-So then, yeah fuck grades dawg.  8th grade and 9th grade was ok.  10th grade honor roll anyway... 11th grade every activity known to man, and then other shit and stuff before graduating from a small DoDDS-E school, again millions of kids every, amazing community, I got a great education on a block schedule and stuff.  Feel blessed in that regard.  
+So then, yeah fuck grades dawg.  8th grade and 9th grade was ok.  10th grade honor roll anyway... 11th grade every activity known to man, and then other shit and stuff before graduating from a small DoDDS-E school, again millions of kids around the world, amazing community, I got a great education on a block schedule and stuff.  Feel blessed in that regard.  
 
 Meanwhile my stack included: 
 
@@ -128,7 +128,7 @@ React, Rust, Laravel, idk what the fuck?
 
 So many CMS' Drupal Joomla, I liked php-nuke what is the successor to that my guys? 
 
-So, I think it's all convoluted, design stuff is cool on the frontend and sharing all that shit on twitter is cool but no one realy cares IRL when I talk about it, or maybe they do?  I just think that in my head, trying not to be a buzz-killington I do really enjoy it.  I do probably want to pivot to a frontend engineer, iOS engineer, SWE somewhere idk. IP law? Deeper into Computer Science? Or maybe entrepreneurship etc.
+So, I think it's all convoluted, design stuff is cool on the frontend and sharing all that shit on twitter is cool but no one really cares IRL when I talk about it, or maybe they do?  I just think that in my head (I do want to learn Rust, Typescript, and will attempt to focus and get better at something, I want to become a subject matter expert and pursue life long learning), trying not to be a buzz-killington I do really enjoy it.  I do probably want to pivot to a frontend engineer, iOS engineer, SWE somewhere idk. IP law? Deeper into Computer Science? Or maybe entrepreneurship etc.
 
 Making it easy and simple (KISS!) Jack Mallers' say that, that's the hard thing to do. 
 
