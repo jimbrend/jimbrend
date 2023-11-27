@@ -23,7 +23,7 @@ let's instantiate some variables
 string, integer, no
 
 let's just make an object called prefaceToday, or prologueToday...   
-also it looks like Github is not catching my spelling mistakes all with red lines while typing this up, will fix later.
+also it looks like Github is not catching my spelling mistakes all with red lines while typing this up, well fix later.
 
 I'd like to preface that my life isn't really that cool, there's millions of military brats like me, it's mostly boring, and uneventful, and I feel I'm mostly just kind of just on an interesting ride?  I guess I coulda worked harder in school, been less lazy.    
 
@@ -79,7 +79,7 @@ So, yeah my Dad told me this was a waste of time I guess?  Indoors all day makin
 But I guess I was expecting to enlist in the Air Force anyway, I wanted to serve.  
 
 You can get by on Cs after Senior year or on Senior year probably... my goal was to enlist work hard and then become an officer probably.  What did it matter if I was in AP US History, AP English, whatever the fuck. 
-Calculus, Trig, Physics were very fun though, I don't think I want to name the teachers but there were a couple I still think about how will they conveyed information and I think I retained all of it. 
+Calculus, Trig, Physics were very fun though, I don't think I want to name the teachers but there were a couple I still think about how well they conveyed information and I think I retained all of it. 
 
 Then, after a very fun junior year, senior year sucked.  I couldn't join because my medical waiver was denied fuck me.  I had to watch others swear in that was fun.  I would have happily served in any branch, leaning toward Army enlist, Army officer, or Navy, Marines, anything!  But I couldn't medical waiver is disqualification from any branch.  
 
