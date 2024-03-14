@@ -4,7 +4,7 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in New Zealand. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on Twitter [@Sudo_Overflow](https://twitter.com/sudo_overflow). Feel free to tweet me any time. You can also check out my website [Cyris.io](https://Cyris.io) for my blog and more.
+You're sitting on a pair of tracks, you don't know where the train will lead, but you keep moving.  Welcome to my rabbit hole, welcome to the wonderful world of lightning...  Annotated works by your's truly, I don't want to make a lenghtly readme just check out my Spotify instead!  Paraphrasing a quote from the movie Inception by Christopher Nolan and we stand on the shoulders of giants...
 
 &nbsp;
 
@@ -46,3 +46,7 @@ I'm currently working on [@Tweetormator](https://twitter.com/tweetormator). A se
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyrisXD&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 <a rel="me" href="[https://linktr.ee](https://linktr.ee/jimsuley)">Check out my link tree</a>
+
+
+All credit to CyrusXD's readme which I edited
+Original Contributor: https://github.com/CyrisXD/CyrisXD/edit/master/README.md
