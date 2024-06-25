@@ -1,1 +1,1 @@
-we stand on the shoulders of giants
+my tools are swish max2, adobe photoshop cs2, php-nuke, Notepad++ on windowsxp, visual basic, jgrasp, and filezilla
