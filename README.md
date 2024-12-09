@@ -1,7 +1,9 @@
 Ok this is weird how is this starred already by "Stargazers?:"
 https://github.com/jimbrend/readme.md/stargazers
 Strange...
-Anyways, this is my Readme file on:
+
+Anyways,
+This is my Readme file on:
 GitHub.
 New Line:
 This is my backed up homework and then some, I made my own e-mail and I e-mailed all my high school homework to myself, as much as I could or remembered to.
