@@ -1,7 +1,6 @@
 Ok this is weird how is this starred already by "Stargazers?:"
 https://github.com/jimbrend/readme.md/stargazers
-Strange.
-...
+Strange...
 Anyways, this is my Readme file on:
 GitHub.
 New Line:
