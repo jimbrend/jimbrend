@@ -15,7 +15,7 @@ So then I was writing a new line,
 New Line:
 My GitHub included all of my backed up homework and then some, it'll be down there in the pins section, there are lots of cool readme possibilities, kind of like the old MySpace days when you think about it, 
 
-"It's cool, it's just like a reflection of their personalities." - My High School Basketball Coach...
+"It's cool, it's just like a reflection of their personalities." - My High School Basketball Coach.
 
 ...I made my own e-mail and I e-mailed all my high school homework to myself, as much as I could or remembered to.
 
