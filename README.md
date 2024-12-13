@@ -13,9 +13,13 @@ On Wednesdays we wear pink, haha, I understood the reference,
 
 So then I was writing a new line,
 New Line:
-This is my backed up homework and then some, I made my own e-mail and I e-mailed all my high school homework to myself, as much as I could or remembered to.
+My GitHub included all of my backed up homework and then some, it'll be down there in the pins section, there are lots of cool readme possibilities, kind of like the old MySpace days when you think about it, 
 
-//in case you don't know, usually two forward slashes leaves a comment, 
+"It's cool, it's just like a reflection of their personalities." - My High School Basketball Coach...
+
+...I made my own e-mail and I e-mailed all my high school homework to myself, as much as I could or remembered to.
+
+//in case you were unawares, usually two forward slashes leaves a comment :) 
 
 Now time to sound conceited:
 So you think you are able to write a signature? LUL
