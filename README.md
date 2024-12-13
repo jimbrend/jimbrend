@@ -1,4 +1,8 @@
-think face/wut face emoji here
+I'm leaving this as tame as possible, however:
+
+It's a bit of my own bouncing board, cheerio!
+
+think face/wut face emoji here LUL
 https://github.com/jimbrend/readme.md/stargazers
 
 Anyways, welcome to my readme.
