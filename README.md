@@ -28,7 +28,7 @@ Well, I animated one with Swish Max 2, with the help of some U.K. gamer friends 
 Cracked adobe photoshop cs2 before it was free, 
 php-nuke was more aesthetically interesting as a Content Management System (IMHO), 
 (I better preferred three-column layouts, the whole infinite scroll is too addicting in my honest opinion,
-I greatly dislike the current state of frontend development at this current conjecture in our history, I feel it is gate-keeped and I don't like it.
+I greatly dislike the current state of frontend development at this current conjecture in our history, I feel it is gate-keeped and I don't like it).
 
 In my humble opinion, these are technologies that should be open-sourced, not companies, people don't deserve that much of Machiavellian power based on the efforts of others, once again, just in my own opinon.
 
