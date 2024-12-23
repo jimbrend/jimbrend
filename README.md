@@ -1,4 +1,33 @@
-I'm leaving this as tame as possible, however:
+I'm leaving this as tame as possible, 
+
+Websites I've had created in my lifetime: 
+
+www.soulsofthefire.com
+(A community for Guild Wars 1)
+
+A Saints Row 2 Website for the multiplayer mode run on a community forum utilizing php-bb
+
+www.dajwebs.com and www.thejweb.com and www.jimsbr.com were once owned by me as well, 
+the former were based on HTML and I developed them as a PHP and HTML website for friends.
+Developers, Developers, Developers! lol 
+
+Anyway,
+
+Also, there was https://www.mxodreamwarriors.com for the video game The Matrix Online, 
+That game was so fun I guess there was some cost issue with the publisher, I don't know what happened there, but I liked the game.
+The emulator still exists there is a community on Discord for it, I met very cool people while playing games I always enjoyed spending times with diverse groups of people.
+
+https://www.easterncustoms.com this was a soft opening with some on-demand store tech at the time, but is defunkt.
+https://www.20XFive.com was the second LLC / sole proprietorship I paid for and is also now defunkt
+The thought process behind it was century long thinking such as in the Eastern Hemisphere has better low-time preference thinking I feel sometimes. 
+
+www.bitcoincookie.com
+www.sunbirdcomputers.com
+Are also currently operational, and feel free to call the brokerage or I don't just ask me in an X direct message. 
+
+
+
+Here's some more wall o' text in my readme, thanks!
 
 It's a bit of my own bouncing board, cheerio!
 
