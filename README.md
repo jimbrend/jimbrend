@@ -2,7 +2,7 @@ I'm leaving this as tame as possible,
 
 Y'all link green bubbles right? 
 
-Well I got some  ️‍❤️‍🔥   * *heart of fire* * bars.
+Well I got some  ️‍❤️‍🔥    *heart of fire*  bars.
 
 
 <img width="1083" alt="Screenshot 2024-12-24 at 1 35 02 AM" src="https://github.com/user-attachments/assets/5e3b31c7-4d67-42f8-b16a-97b837913dd3" />
