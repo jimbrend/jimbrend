@@ -6,7 +6,8 @@ Well I got some  ️‍❤️‍🔥    *heart of fire*  bars.
 
 
 
-<img width="1083" alt="Screenshot 2024-12-24 at 1 35 02 AM" src="https://github.com/user-attachments/assets/5e3b31c7-4d67-42f8-b16a-97b837913dd3" />
+![1BC1519A-A4CB-4F18-B235-D97A5DF5A3DD](https://github.com/user-attachments/assets/63e98967-ba0b-4bd3-a269-bb9eb74a00ca)
+
 
 During this time I made a community website of the many websites I made myself one was called dajwebs.com, where I e-mailed all my homework to myself, it was going to be a social website just for friends and games.  Specifically was a Halo HTML website, and mxodreamwarriors.com (A Matrix Online MMO) clan, I also played City of Heroes, Villains, and Guild Wars 1 etc. I had custom rendered characters that animated upon each page load in, was pretty cool, I helped set this up I remember was very fun (Unfortunately I guess Sony Online Entertainment dropped the ball or priorities changed I don't know but if anyone knows of a project like this upcoming please let me know I'm interested):
 
