@@ -1,6 +1,6 @@
 I'm leaving this as tame as possible, 
 
-Y'all link green bubbles right? 
+Y'all like green bubbles right? 
 
 Well I got some  ️‍❤️‍🔥    *heart of fire*  bars.
 
