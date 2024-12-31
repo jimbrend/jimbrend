@@ -37,9 +37,17 @@ The thought process behind it was century-long thinking such as in the Eastern H
 
 www.bitcoincookie.com
 www.sunbirdcomputers.com
-Are also currently operational, and feel free to call the brokerage or I don't just ask me in an X direct message. 
+Are also currently operational and online propagating through the cyberspace as we drive ICE cars around sometimes instead of just walking, and feel free to call the brokerage or don't just ask me in an X direct message my personal is x.com/usernameisjim I will only entertain legitimate offers at this time for investment or interest. 
 
+https://www.sunbirdcomputers.com actually has a live chat as well you just click it and are able to type your words right there, I just try to make websites and computers- the real geniuses are working on electric cars and spaceships.
 
+These are some songs I enjoy:
+https://www.youtube.com/watch?v=uvb-1wjAtk4
+https://www.youtube.com/watch?v=PsO6ZnUZI0g
+https://www.youtube.com/watch?v=8kyWDhB_QeI
+
+Another as well: 
+https://www.youtube.com/watch?v=7uqcydPzA-8
 
 Here's some more wall o' text in my readme, thanks!
 
