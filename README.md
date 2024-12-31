@@ -41,6 +41,7 @@ Are also currently operational and online propagating through the cyberspace as 
 
 https://www.sunbirdcomputers.com actually has a live chat as well you just click it and are able to type your words right there, I just try to make websites and computers- the real geniuses are working on electric cars and spaceships.
 
+
 These are some songs I enjoy:
 
 https://www.youtube.com/watch?v=uvb-1wjAtk4
@@ -51,6 +52,7 @@ https://www.youtube.com/watch?v=8kyWDhB_QeI
 
 Another as well: 
 https://www.youtube.com/watch?v=7uqcydPzA-8
+
 
 Here's some more wall o' text in my readme, thanks!
 
@@ -90,9 +92,11 @@ I also liked Notepad++ on Windows XP, and I learned to Code cash registers in Vi
 
 Funny jokes to use while gaming, but a little facetious to watch out for: Alt-f4 is funny though (You know what Italy is shaped like?  A boot)  Funny joke I think.
 
-Another joke to end the readme with I just thought of, another fun acronym one of my best friends in high school made up: BBQROFLWTFCOPTER, look it up, 
-and one more joke:
+Another joke to end the readme with I just thought of, another fun acronym one of my best friends in high school made up (he studies for many years to become a clinical pharmacist): BBQROFLWTFCOPTER,
+The reference reminds me of Family Guy's Rock Lobster meets sort of a Beam Rifle in Halo 2 (We were probably playing Halo 2 at the time) it's kind of a reference.
 
-The world just keeps going 'round and 'round, but some things are taller than others. 
+One more joke:
 
-Also, learned jgrasp, and taught myself how to use FileZilla and web design myself, buh bye!
+The world just keeps going 'round and 'round, but some things rise to the canopy of the Amazonian ecosystem.
+
+Also, learned jgrasp, and taught myself how to use FileZilla and attempted to understand responsive web design myself (the textbook mentioned above was also Algebra had two great math teachers), buh bye!
