@@ -90,7 +90,7 @@ In my humble opinion, these are technologies that should be open-sourced, not co
 
 I also liked Notepad++ on Windows XP, and I learned to Code cash registers in Visual Basic in high school, because I had a good teacher, who simply gave me one textbook, I did the rest, and I always tried to focus, but watch out for those darn CD-ROM drives, I guess they make a nice cup holder, lol)?
 
-Funny jokes to use while gaming, but a little facetious to watch out for: Alt-f4 is funny though (You know what Italy is shaped like?  A boot)  Funny joke I think.
+Funny jokes to use while gaming, but a little facetious to watch out for: Alt-F4 is a little funny though among friends.. (You know what Italy is shaped like?  A boot).  Funny joke I think.
 
 Another joke to end the readme with I just thought of, another fun acronym one of my best friends in high school made up (he studies for many years to become a clinical pharmacist): BBQROFLWTFCOPTER,
 The reference reminds me of Family Guy's Rock Lobster meets sort of a Beam Rifle in Halo 2 (We were probably playing Halo 2 at the time) it's kind of a reference.
