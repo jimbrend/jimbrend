@@ -1,3 +1,20 @@
+Learn to spell instead of playing Fortnite, 
+
+You're able to play LITERALLY any other game, 
+
+Like Morrowind. 
+
+
+
+
+10th line Github, 10th line, I just am so upset sometimes, this is my new journal, it's called a readme, where you're able to write and be creative,
+and it is cool.
+
+...Ban my words, idgaf, I'm a United States Citizen, and I love my country.  Study harder, or just visit here one day.
+Words mean everything, but your words hurt me too sometimes, I dislike people, news flash! 
+People actually capable of not having friends and disliking people, here's the readme:
+
+
 I'm leaving this as tame as possible, 
 
 Y'all like green bubbles right? 
