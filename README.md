@@ -79,9 +79,7 @@ My GitHub includes all of my backed up homework and then some, it'll be down the
 //in case you were unawares, usually two forward slashes leaves a comment :) 
 
 Now time to sound conceited:
-So you think you are able to write a signature? LUL
-
-Well, I animated one with Swish Max 2, with the help of some U.K. gamer friends :), 
+I animated my websites since Swish Max 2, with the help of some U.K. gamer friends :), 
 Cracked adobe photoshop cs2 before it was free, 
 php-nuke was more aesthetically interesting as a Content Management System (IMHO), 
 (I better preferred three-column layouts, the whole infinite scroll is too addicting in my honest opinion,
