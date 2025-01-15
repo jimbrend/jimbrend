@@ -1,4 +1,4 @@
-I'm leaving this as tame as possible, 
+ I'm leaving this as tame as possible, 
 
 Y'all like green bubbles right? 
 
@@ -31,8 +31,9 @@ Also, there was https://www.mxodreamwarriors.com for the video game The Matrix O
 That game was so fun I guess there was some cost issue with the publisher, I don't know what happened there, but I liked the game.
 The emulator still exists there is a community on Discord for it, I met very cool people while playing games I always enjoyed spending times with diverse groups of people.
 
-https://www.easterncustoms.com this was a soft opening with some on-demand store tech at the time, but is defunkt.
+https://www.easterncustoms.com this was a soft opening with some on-demand store tech at the time, but is dissolved.
 https://www.20XFive.com was the second LLC / sole proprietorship I paid for and is also now deprecated
+
 The thought process behind it was century-long thinking such as in the Eastern Hemisphere there has been a better focus on low-time preference thinking I feel sometimes, whereas in the West-- it almost seems like maybe culturally we just tend to focus on one thing at once, just culture and communication. 
 
 www.bitcoincookie.com
