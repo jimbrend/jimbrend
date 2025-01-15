@@ -1,11 +1,4 @@
- I'm leaving this as tame as possible, 
-
-Y'all like green bubbles right? 
-
-Well I got some  ️‍❤️‍🔥    *heart of fire*  bars.
-
-
-
+❤️‍🔥    *heart of fire*
 ![1BC1519A-A4CB-4F18-B235-D97A5DF5A3DD](https://github.com/user-attachments/assets/63e98967-ba0b-4bd3-a269-bb9eb74a00ca)
 
 
