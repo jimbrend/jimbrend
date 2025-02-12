@@ -29,12 +29,13 @@ https://www.20XFive.com was the second LLC / sole proprietorship I paid for and 
 
 The thought process behind it was century-long thinking such as in the Eastern Hemisphere there has been a better focus on low-time preference thinking I feel sometimes, whereas in the West-- it almost seems like maybe culturally we just tend to focus on one thing at once, just culture and communication. 
 
-www.bitcoincookie.com
-www.sunbirdcomputers.com
-Are also currently operational and online propagating through the cyberspace as we drive ICE cars around still. 
-
-https://www.sunbirdcomputers.com actually has a live chat as well you just click it and are able to type your words right there, I just try to make websites and computers- the real geniuses are working on electric cars and spaceships.
-
+I have several projects currently I'm dabbling with and own a few domains for now:
+https://www.bitcoincookie.com
+https://www.sunbirdcomputers.com
+https://www.sunbirdcomputers.com
+https://www.gamingcomputer.bitcoin (this one does not resolve for most browsers yet it uses [unstoppable domains](https://unstoppabledomains.com/))
+Depending on my workload sunbirdcomputer may become operational and online propagate through cyberspace
+I am staunch advocate of using [BTCPayServer.org](https://btcpayserver.org/) as an open-source technology to empower individuals
 
 These are some songs I enjoy:
 
@@ -47,38 +48,27 @@ https://www.youtube.com/watch?v=8kyWDhB_QeI
 Another as well: 
 https://www.youtube.com/watch?v=7uqcydPzA-8
 
+Also: 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jimdzy&cover_image=true&theme=default&show_offline=false&background_color=430404&interchange=false&bar_color=000000&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=jimdzy&redirect=true)
 
-Here's some more wall o' text in my readme, thanks!
+My GitHub includes as well a lot of my backed up homework and then some, I made my own e-mail and I e-mailed all my high school homework to myself, as much as I could or remembered to. 
 
-It's a bit of my own bouncing board, cheerio!
-
-think face/wut face emoji here LUL
-https://github.com/jimbrend/readme.md/stargazers
-
-Anyways, welcome to my readme.
-This is my Readme file on:
-GitHub (duh).
-
-On Wednesdays we wear pink, haha, I understood the reference, 
-
-So then I was writing a new line,
-New Line:
-My GitHub includes all of my backed up homework and then some, it'll be down there in the pins section, there are lots of cool readme possibilities, kind of like the old MySpace days when you think about it, 
+There are lots of cool readme possibilities, kind of like the old MySpace days when you think about it, 
 
 "It's cool, it's just like a reflection of their personalities." - My High School Basketball Coach.
 
-...I made my own e-mail and I e-mailed all my high school homework to myself, as much as I could or remembered to.
 
-//in case you were unawares, usually two forward slashes leaves a comment :) 
 
-Now time to sound conceited:
+//In case you were unawares and stumbled upon my readme as a non-dev, learning computer science I highly recommend!  Usually two forward slashes means this is a comment too at the beginning of this line :) 
+
+Now time to sound conceited?
 I animated my websites since Swish Max 2, with the help of some U.K. gamer friends :), 
 Cracked adobe photoshop cs2 before it was free, 
 php-nuke was more aesthetically interesting as a Content Management System (IMHO), 
 (I better preferred three-column layouts, the whole infinite scroll is too addicting in my honest opinion,
-I greatly dislike the current state of frontend development at this current conjecture in our history, I feel it is gate-keeped and I don't like it).
+I am apprehensive about the current state of frontend development at this current conjecture in our history, I feel it is too gate-keeped).
 
 In my humble opinion, these are technologies that should be open-sourced, dependent on the product.
 
-I also liked Notepad++ on Windows XP, and I learned to Code cash registers in Visual Basic in high school, because I had a good teacher, who simply gave me one textbook, I did the rest, and I always tried to focus, but watch out for those darn CD-ROM drives, I guess they make a nice cup holder, lol)?
-
+I also liked Notepad++ on Windows XP, and I learned to Code cash registers in Visual Basic in high school, I always tried to focus, but watch out for those darn CD-ROM drives, 
+I guess they make a nice cup holder? :P
