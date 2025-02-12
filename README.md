@@ -49,6 +49,8 @@ Another as well:
 https://www.youtube.com/watch?v=7uqcydPzA-8
 
 Also: 
+
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jimdzy&cover_image=true&theme=default&show_offline=false&background_color=430404&interchange=false&bar_color=000000&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=jimdzy&redirect=true)
 
 My GitHub includes as well a lot of my backed up homework and then some, I made my own e-mail and I e-mailed all my high school homework to myself, as much as I could or remembered to. 
