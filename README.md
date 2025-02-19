@@ -32,24 +32,16 @@ The thought process behind it was century-long thinking such as in the Eastern H
 I have several projects currently I'm dabbling with and own a few domains for now:
 https://www.bitcoincookie.com
 https://www.sunbirdcomputers.com
-https://www.sunbirdcomputers.com
+https://www.sunbirdcomputer.com
 https://www.gamingcomputer.bitcoin (this one does not resolve for most browsers yet it uses [unstoppable domains](https://unstoppabledomains.com/))
-Depending on my workload sunbirdcomputer may become operational and online propagate through cyberspace
-I am staunch advocate of using [BTCPayServer.org](https://btcpayserver.org/) as an open-source technology to empower individuals
+Depending on my workload sunbirdcomputer may become operational and propagate through cyberspace
+I am a staunch advocate of using [BTCPayServer.org](https://btcpayserver.org/) as an open-source technology to empower individuals
 
-These are some songs I enjoy:
+Some music I enjoy:
 
-https://www.youtube.com/watch?v=uvb-1wjAtk4
+https://www.youtube.com/watch?v=pGThyI5YCUU
 
-https://www.youtube.com/watch?v=PsO6ZnUZI0g
-
-https://www.youtube.com/watch?v=8kyWDhB_QeI
-
-Another as well: 
-https://www.youtube.com/watch?v=7uqcydPzA-8
-
-Also: 
-
+https://www.youtube.com/watch?v=B38CY-4Rd6s
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jimdzy&cover_image=true&theme=default&show_offline=false&background_color=430404&interchange=false&bar_color=000000&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=jimdzy&redirect=true)
 
