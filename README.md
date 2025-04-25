@@ -2,29 +2,33 @@
 ![1BC1519A-A4CB-4F18-B235-D97A5DF5A3DD](https://github.com/user-attachments/assets/63e98967-ba0b-4bd3-a269-bb9eb74a00ca)
 
 
-During this time I made a community website of the many websites I made myself one was called dajwebs.com, where I e-mailed all my homework to myself, it was going to be a social website just for friends and games.  Specifically was a Halo HTML website, and mxodreamwarriors.com (A Matrix Online MMO) clan, I also played City of Heroes, Villains, and Guild Wars 1 etc. I had custom rendered characters that animated upon each page load in, was pretty cool, I helped set this up I remember was very fun (Unfortunately I guess Sony Online Entertainment dropped the ball or priorities changed I don't know but if anyone knows of a project like this upcoming please let me know I'm interested):
+During this time I made a community website of the many websites I made myself one was called dajwebs.com, where I e-mailed all my homework to myself, it was going to be a social website just for friends and games.  Specifically was a Halo HTML website, and mxodreamwarriors.com (A Matrix Online MMO) group, I also played City of Heroes, Villains, and Guild Wars 1 etc. I had custom rendered characters that animated upon each page load in, was pretty cool, I helped set this up I remember was very fun (Unfortunately I guess Sony Online Entertainment dropped the ball or priorities changed I don't know but if anyone knows of a project like this upcoming please let me know I'm interested):
 
 ![mxomybettermemories](https://github.com/user-attachments/assets/7af47f42-a7d2-41b8-a405-4e7f244633ab)
 
+The emulator still exists there is a community on Discord for it, this is the project as you can see you are still able to load it up as you see from the video here I got superjumping going thanks to the contributions of those supporting the emulator (https://mxoemu.info/), 
 
-Websites I've had created in my lifetime: 
 
-www.soulsofthefire.com
-(A community for Guild Wars 1)
+https://github.com/user-attachments/assets/eb6849e2-a9f4-48f4-ae3a-fc310da01828
 
+
+
+
+
+
+I've created well over 30+ websites in my lifetime: 
+soulsofthefire.com (at one point averaged 1000+ visits a day)
+checkeredraven.com (communities for guild wars and neverwinter)
 A Saints Row 2 Website for the multiplayer mode run on a community forum utilizing php-bb
-
-www.dajwebs.com and www.thejweb.com and www.jimsbr.com were once owned by me as well, 
+www.dajwebs.com and www.thejweb.com were once owned by me as well, jimsbr.com may go live later
 the former were based on HTML and I developed them as a PHP and HTML website for friends.
-Developers, Developers, Developers! lol 
+There are several more I have worked on... Developers, Developers, Developers! lol 
 
 Anyway,
 
-Also, there was https://www.mxodreamwarriors.com for the video game The Matrix Online, 
-That game was so fun I guess there was some cost issue with the publisher, I don't know what happened there, but I liked the game.
-The emulator still exists there is a community on Discord for it, I met very cool people while playing games I always enjoyed spending times with diverse groups of people.
+I met very cool people while playing games I always enjoyed spending times with diverse groups of people, and I went on to work for RockstarGames and Ubisfot in my career before moving on to some other projects outside of gaming (thought I still work on things like Overwatch 2 support on Mac in my spare time and am open to any projects like this)...
 
-https://www.easterncustoms.com this was a soft opening with some on-demand store tech at the time, but is dissolved.
+https://www.easterncustoms.com this was a soft opening with some on-demand store tech at the time, it exists on the waybackmachine but is dissolved.
 https://www.20XFive.com was the second LLC / sole proprietorship I paid for and is also now deprecated
 
 The thought process behind it was century-long thinking such as in the Eastern Hemisphere there has been a better focus on low-time preference thinking I feel sometimes, whereas in the West-- it almost seems like maybe culturally we just tend to focus on one thing at once, just culture and communication. 
