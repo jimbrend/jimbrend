@@ -63,11 +63,13 @@ There are lots of cool readme possibilities, kind of like the old MySpace days w
 Now time to sound conceited?
 I animated my websites since Swish Max 2, with the help of some U.K. gamer friends :), 
 Cracked adobe photoshop cs2 before it was free, 
-php-nuke was more aesthetically interesting as a Content Management System (IMHO), 
+php-nuke was more aesthetically interesting as a Content Management System in my honest opinion, 
 (I better preferred three-column layouts, the whole infinite scroll is too addicting in my honest opinion,
-I am apprehensive about the current state of frontend development at this current conjecture in our history, I feel it is too gate-keeped).
 
-In my humble opinion, these are technologies that should be open-sourced, dependent on the product.
+I am apprehensive about the current state of frontend development at this current conjecture in our history, I feel it is too gate-keeped).
+In my humble opinion, these are technologies that should be open-sourced, dependent on the product.  
+I believe this was touched on during a great discussion with Lex Fridman and Pieter Levels and I think I agreed greatly with Pieter on that sentiment: 
+https://youtu.be/oFtjKbXKqbg?si=mNiH7ZuTE8Eey3uR&t=9759
 
 I also liked Notepad++ on Windows XP, and I learned to Code cash registers in Visual Basic in high school, I always tried to focus, but watch out for those darn CD-ROM drives, 
 I guess they make a nice cup holder? :P
