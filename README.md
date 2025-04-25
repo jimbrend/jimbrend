@@ -26,7 +26,7 @@ There are several more I have worked on... Developers, Developers, Developers! l
 
 Anyway,
 
-I met very cool people while playing games I always enjoyed spending times with diverse groups of people, and I went on to work for RockstarGames and Ubisfot in my career before moving on to some other projects outside of gaming (thought I still work on things like Overwatch 2 support on Mac in my spare time and am open to any projects like this)...
+I met very cool people while playing games I always enjoyed spending times with diverse groups of people, and I went on to work for RockstarGames and Ubisoft in my career before moving on to some other projects outside of gaming (thought I still work on things like Overwatch 2 support on Mac in my spare time and am open to any projects like this)...
 
 https://www.easterncustoms.com this was a soft opening with some on-demand store tech at the time, it exists on the waybackmachine but is dissolved.
 https://www.20XFive.com was the second LLC / sole proprietorship I paid for and is also now deprecated
