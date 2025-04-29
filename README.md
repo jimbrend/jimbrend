@@ -61,12 +61,12 @@ There are lots of cool readme possibilities, kind of like the old MySpace days w
 //In case you were unawares and stumbled upon my readme as a non-dev, learning computer science I highly recommend!  Usually two forward slashes means this is a comment too at the beginning of this line :) 
 
 Now time to sound conceited?
-I animated my websites since Swish Max 2, with the help of some U.K. gamer friends :), 
-Cracked adobe photoshop cs2 before it was free, 
+I animated my websites since Swish Max 2, 
+Cracked adobe photoshop cs2 before it was free (with the help of some U.K. gamer friends :), 
 php-nuke was more aesthetically interesting as a Content Management System in my honest opinion, 
 (I better preferred three-column layouts, the whole infinite scroll is too addicting in my honest opinion,
-
 I am apprehensive about the current state of frontend development at this current conjecture in our history, I feel it is too gate-keeped).
+
 In my humble opinion, these are technologies that should be open-sourced, dependent on the product.  I believe this was touched on during a great discussion with Lex Fridman and Pieter Levels and I think I agreed greatly with Pieter on that sentiment: 
 https://youtu.be/oFtjKbXKqbg?si=RNYb-qXKW56ps4Vp&t=7014
 
