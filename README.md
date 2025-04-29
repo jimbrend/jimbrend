@@ -2,7 +2,7 @@
 ![1BC1519A-A4CB-4F18-B235-D97A5DF5A3DD](https://github.com/user-attachments/assets/63e98967-ba0b-4bd3-a269-bb9eb74a00ca)
 
 
-During this time I made a community website of the many websites I made myself one was called dajwebs.com, it was a social website just for friends and games. I built webiste for several gaming communities and contributed to designs to several marketplaces like themeforest, and built mxodreamwarriors.com (A Matrix Online MMO) group, I also played City of Heroes, Villains, and Guild Wars 1 etc. I had custom rendered characters that animated upon each page load in, was pretty cool, I helped set this up I remember was very fun (Unfortunately I guess Sony Online Entertainment dropped the ball or priorities changed I don't know but if anyone knows of a project like this upcoming please let me know I'm interested):
+During this time I made a community website of the many websites I made myself one was called dajwebs.com, it was a social website just for friends and games. I built webistes for several gaming communities and contributed to designs to several marketplaces like themeforest, and built mxodreamwarriors.com (A Matrix Online MMO) group, I also played City of Heroes, Villains, and Guild Wars 1 etc. I had custom rendered characters that animated upon each page load in, was pretty cool, I helped set this up I remember was very fun (Unfortunately I guess Sony Online Entertainment dropped the ball or priorities changed I don't know but if anyone knows of a project like this upcoming please let me know I'm interested):
 
 ![mxomybettermemories](https://github.com/user-attachments/assets/7af47f42-a7d2-41b8-a405-4e7f244633ab)
 
