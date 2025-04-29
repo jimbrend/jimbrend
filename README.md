@@ -21,13 +21,13 @@ soulsofthefire.com (at one point averaged 1000+ visits a day)
 checkeredraven.com (communities for guild wars and neverwinter)
 A Saints Row 2 Website for the multiplayer mode run on a community forum utilizing php-bb
 www.dajwebs.com and www.thejweb.com were once owned by me as well, jimsbr.com may go live later
-the former were based on HTML and I developed them as a PHP and HTML websites for friends.
+the former were based on HTML and I developed them as PHP and HTML websites for friends.
 I also utilized several different CMS software, Apache, mySQL, Javascript, and much more usually self-hosting and building them all and either self-hosting them on my own machine or utilizing a friends web-hosting service who lives in the U.K.
 There are several more I have worked on... Developers, Developers, Developers! lol 
 
 Anyway,
 
-I met very cool people while playing games I always enjoyed spending time with diverse groups of people, and I went on to work for RockstarGames and Ubisoft in my career before moving on to some other projects outside of gaming (thought I still work on things like Overwatch 2 support on Mac in my spare time and am open to any projects like this)...
+I met very cool people while playing games I always enjoyed spending time with diverse groups of people, and I went on to work for RockstarGames and Ubisoft in my career before moving on to some other projects outside of gaming (though I still work on things like Overwatch 2 support on Mac in my spare time and am open to any projects like this)...
 
 https://www.easterncustoms.com this was a soft opening with some on-demand store tech at the time, it exists on the waybackmachine but is dissolved.
 https://www.20XFive.com was the second LLC / sole proprietorship I paid for and is also now deprecated
