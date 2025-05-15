@@ -1,20 +1,26 @@
-❤️‍🔥    *heart of fire*
-![1BC1519A-A4CB-4F18-B235-D97A5DF5A3DD](https://github.com/user-attachments/assets/63e98967-ba0b-4bd3-a269-bb9eb74a00ca)
 
+
+
+https://github.com/user-attachments/assets/f9052dec-6592-429c-af35-b93ebf241fba
+
+
+
+<details><summary>About Me</summary>
+
+The clip above is from the emulator that still exists here: https://mxoemu.info/ from The Matrix Online, there is a community on Discord for it, as you can see you are still able to load it up and I got superjumping going thanks as well to the contributions of those supporting the emulator.
+
+❤️‍🔥    *heart of fire*
+
+![399530907-63e98967-ba0b-4bd3-a269-bb9eb74a00ca](https://github.com/user-attachments/assets/056a6b47-e072-409b-92a7-341a4549047b)
 
 During this time I made a community website of the many websites I made myself one was called dajwebs.com, it was a social website just for friends and games. I built websites for several gaming communities and contributed to designs to several marketplaces like themeforest, and built mxodreamwarriors.com (A Matrix Online MMO) group, I also played City of Heroes, Villains, and Guild Wars 1 etc. I had custom rendered characters that animated upon each page load in, was pretty cool, I helped set this up I remember was very fun (Unfortunately I guess Sony Online Entertainment dropped the ball or priorities changed I don't know but if anyone knows of a project like this upcoming please let me know I'm interested):
 
 ![mxomybettermemories](https://github.com/user-attachments/assets/7af47f42-a7d2-41b8-a405-4e7f244633ab)
 
-The emulator still exists there is a community on Discord for it, this is the project as you can see you are still able to load it up as you see from the video here I got superjumping going thanks to the contributions of those supporting the emulator (https://mxoemu.info/), 
+Some music I enjoy (the preview below is randomly cycling album artwork when you refresh this page):
 
 
-https://github.com/user-attachments/assets/eb6849e2-a9f4-48f4-ae3a-fc310da01828
-
-
-
-
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jimdzy&cover_image=true&theme=default&show_offline=false&background_color=430404&interchange=false&bar_color=000000&bar_color_cover=true)](https://open.spotify.com/user/jimdzy)
 
 I've created well over 30+ websites in my lifetime: 
 soulsofthefire.com (at one point averaged 1000+ visits a day)
@@ -42,14 +48,6 @@ https://www.gamingcomputer.bitcoin (this one does not resolve for most browsers 
 Depending on my workload sunbirdcomputer may become operational and propagate through cyberspace
 I am a staunch advocate of using [BTCPayServer.org](https://btcpayserver.org/) as an open-source technology to empower individuals
 
-Some music I enjoy:
-
-https://www.youtube.com/watch?v=pGThyI5YCUU
-
-https://www.youtube.com/watch?v=xKSXDvU7buY
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jimdzy&cover_image=true&theme=default&show_offline=false&background_color=430404&interchange=false&bar_color=000000&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=jimdzy&redirect=true)
-
 My GitHub includes as well a lot of my backed up homework and then some, I made my own e-mail and I e-mailed all my high school homework to myself, as much as I could or remembered to. 
 
 There are lots of cool readme possibilities, kind of like the old MySpace days when you think about it, 
@@ -72,3 +70,4 @@ https://youtu.be/oFtjKbXKqbg?si=RNYb-qXKW56ps4Vp&t=7014
 
 I also liked Notepad++ on Windows XP, and I learned to Code cash registers in Visual Basic in high school, I always tried to focus, but watch out for those darn CD-ROM drives, 
 I guess they make a nice cup holder? :P
+</details>
