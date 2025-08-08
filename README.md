@@ -13,7 +13,7 @@ The clip above is from the emulator that still exists here: https://mxoemu.info/
 
 ![399530907-63e98967-ba0b-4bd3-a269-bb9eb74a00ca](https://github.com/user-attachments/assets/056a6b47-e072-409b-92a7-341a4549047b)
 
-During this time I made a community website of the many websites I made myself one was called dajwebs.com, it was a social website just for friends and games. I built websites for several gaming communities and contributed to designs to several marketplaces like themeforest, and built mxodreamwarriors.com (A Matrix Online MMO) group, I also played City of Heroes, Villains, and Guild Wars 1 etc. I had custom rendered characters that animated upon each page load in, was pretty cool, I helped set this up I remember was very fun (Unfortunately I guess Sony Online Entertainment dropped the ball or priorities changed I don't know but if anyone knows of a project like this upcoming please let me know I'm interested):
+During this time I made a community website of the many websites I made myself one was called dajwebs.com, it was a social website just for friends and games. I built websites for several gaming communities and contributed to designs to several marketplaces like themeforest, and built mxodreamwarriors.com (A Matrix Online MMO) group, I also played City of Heroes, Villains, and Guild Wars 1 etc. I had custom rendered characters that animated upon each page load in, was pretty cool, I helped set this up I remember was very fun (Unfortunately, I guess Sony Online Entertainment dropped the ball on a possible mroe revenue or priorities changed I don't know but if anyone knows of a project like this upcoming please let me know I'm interested.  It was developed by a subsidiary Monolith before SOE was restructured twice with trends>  I find software can be convoluted in its executino at scale with ironically low shelf life.  I wrote about this more in substack and X articles you may find through my profile on the right, where I was involved directly in these modding community trends with things like specific launchers and server testing, Sonly Online was renamed briefly to Daybreak...):
 
 ![mxomybettermemories](https://github.com/user-attachments/assets/7af47f42-a7d2-41b8-a405-4e7f244633ab)
 
@@ -28,7 +28,7 @@ checkeredraven.com (communities for guild wars and neverwinter)
 A Saints Row 2 Website for the multiplayer mode run on a community forum utilizing php-bb
 www.dajwebs.com and www.thejweb.com were once owned by me as well, jimsbr.com may go live later
 the former were based on HTML and I developed them as PHP and HTML websites for friends.
-I also utilized several different CMS software, Apache, mySQL, Javascript, and much more usually self-hosting and building them all and either self-hosting them on my own machine or utilizing a friends web-hosting service who lives in the U.K.
+I also utilized several different CMS software, Apache, mySQL, JavaScript, and much more usually self-hosting and building them all and either self-hosting them on my own machine or utilizing a friends web-hosting service who lives in the U.K.
 There are several more I have worked on... Developers, Developers, Developers! lol 
 
 Anyway,
@@ -56,18 +56,17 @@ There are lots of cool readme possibilities, kind of like the old MySpace days w
 
 
 
-//In case you were unawares and stumbled upon my readme as a non-dev, learning computer science I highly recommend!  Usually two forward slashes means this is a comment too at the beginning of this line :) 
+//In case you may have just stumbled upon my readme as a non-dev, learning computer science I highly recommend!  Usually, two forward slashes means this is a comment too at the beginning of this line :) or often a #, depending on the syntax of the language.  Albeit, many are similar with object-oriented principles.
 
 Now time to sound conceited?
-I animated my websites since Swish Max 2, 
-Cracked adobe photoshop cs2 before it was free (with the help of some U.K. gamer friends :), 
-php-nuke was more aesthetically interesting as a Content Management System in my honest opinion, 
-(I better preferred three-column layouts, the whole infinite scroll is too addicting in my honest opinion,
-I am apprehensive about the current state of frontend development at this current conjecture in our history, I feel it is too gate-keeped).
+I animated my websites since Swish Max 2, these .swf files were fun in the earlier internet days.
+Built most of my websites by just self-hosting them and using tools like FileZilla, cracked Adobe Photoshop CS2 before it was free (with the help of some U.K. friends :), they were English speakers often online the same time as me as I grew up a substantial time three hours ahead of GMT, teaching myself how to use computers (until now they teach us quicker).
+PHP-Nuke was more aesthetically interesting as a Content Management System in my honest opinion, 
+(I better preferred three-column layouts, the whole infinite scroll is too addicting in my honest opinion, there are times I believe we should give credit to the intelligence of our audiences.  I am apprehensive about the current state of frontend development at this current conjecture in our history, I feel it is too gate-keeped, as is a lot of computer science, when it doesn't need to be and could be more welcoming and user-friendly).
 
-In my humble opinion, these are technologies that should be open-sourced, dependent on the product.  I believe this was touched on during a great discussion with Lex Fridman and Pieter Levels and I think I agreed greatly with Pieter on that sentiment: 
+In my humble opinion, these are all foundational technologies that should be open-sourced, dependent on the product or source-available as reasonable licenses and business models prevail.  I believe this was touched on during a great discussion with Lex Fridman and Pieter Levels and I think I agreed greatly with Pieter on that sentiment: 
 https://youtu.be/oFtjKbXKqbg?si=RNYb-qXKW56ps4Vp&t=7014
 
 I also liked Notepad++ on Windows XP, and I learned to Code cash registers in Visual Basic in high school, I always tried to focus, but watch out for those darn CD-ROM drives, 
-I guess they make a nice cup holder? :P
+I guess they make a nice cup holder? :P They are obviously cup olders and not sandwhich meat rays for balogna.
 </details>
