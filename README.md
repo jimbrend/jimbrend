@@ -13,7 +13,7 @@ The clip above is from the emulator that still exists here: https://mxoemu.info/
 
 ![399530907-63e98967-ba0b-4bd3-a269-bb9eb74a00ca](https://github.com/user-attachments/assets/056a6b47-e072-409b-92a7-341a4549047b)
 
-During this time I made a community website of the many websites I made myself one was called dajwebs.com, it was a social website just for friends and games. I built websites for several gaming communities and contributed to designs to several marketplaces like themeforest, and built mxodreamwarriors.com (A Matrix Online MMO) group, I also played City of Heroes, Villains, and Guild Wars 1 etc. I had custom rendered characters that animated upon each page load in, was pretty cool, I helped set this up I remember was very fun (Unfortunately, I guess Sony Online Entertainment dropped the ball on a possible mroe revenue or priorities changed I don't know but if anyone knows of a project like this upcoming please let me know I'm interested.  It was developed by a subsidiary Monolith before SOE was restructured twice with trends>  I find software can be convoluted in its executino at scale with ironically low shelf life.  I wrote about this more in substack and X articles you may find through my profile on the right, where I was involved directly in these modding community trends with things like specific launchers and server testing, Sonly Online was renamed briefly to Daybreak...):
+During this time I made a community website of the many websites I made myself one was called dajwebs.com, it was a social website just for friends and games. I built websites for several gaming communities and contributed to designs to several marketplaces like themeforest, and built mxodreamwarriors.com (A Matrix Online MMO) group, I also played City of Heroes, Villains, and Guild Wars 1 etc. I had custom rendered characters that animated upon each page load in, was pretty cool, I helped set this up I remember was very fun (Unfortunately, I guess Sony Online Entertainment dropped the ball on possible more revenue or priorities changed I don't know but if anyone knows of a project like this upcoming please let me know I'm interested.  It was developed by a subsidiary Monolith before SOE was restructured twice with trends>  I find software can be convoluted in its execution at scale with ironically low shelf life.  I wrote about this more in substack and X articles you may find through my profile on the right, where I was involved directly in these modding community trends with things like specific launchers and server testing, Sonly Online was renamed briefly to Daybreak...):
 
 ![mxomybettermemories](https://github.com/user-attachments/assets/7af47f42-a7d2-41b8-a405-4e7f244633ab)
 
@@ -28,14 +28,14 @@ checkeredraven.com (communities for guild wars and neverwinter)
 A Saints Row 2 Website for the multiplayer mode run on a community forum utilizing php-bb
 www.dajwebs.com and www.thejweb.com were once owned by me as well, jimsbr.com may go live later
 the former were based on HTML and I developed them as PHP and HTML websites for friends.
-I also utilized several different CMS software, Apache, mySQL, JavaScript, and much more usually self-hosting and building them all and either self-hosting them on my own machine or utilizing a friends web-hosting service who lives in the U.K.
+I also utilized several different CMS software, Apache, MySQL, JavaScript, and much more usually self-hosting and building them all and either self-hosting them on my own machine or utilizing a friends web-hosting service who lives in the U.K.
 There are several more I have worked on... Developers, Developers, Developers! lol 
 
 Anyway,
 
 I met very cool people while playing games I always enjoyed spending time with diverse groups of people, and I went on to work for RockstarGames and Ubisoft in my career before moving on to some other projects outside of gaming (though I still work on things like Overwatch 2 support on Mac in my spare time and am open to any projects like this)...
 
-https://www.easterncustoms.com this was a soft opening with some on-demand store tech at the time, it exists on the waybackmachine but is dissolved.
+https://www.easterncustoms.com this was a soft opening with some on-demand store tech at the time, it exists on the Wayback Machine but is dissolved.
 https://www.20XFive.com was the second LLC / sole proprietorship I paid for and is also now deprecated
 
 The thought process behind it was century-long thinking such as in the Eastern Hemisphere there has been a better focus on low-time preference thinking I feel sometimes, whereas in the West-- it almost seems like maybe culturally we just tend to focus on one thing at once, just culture and communication. 
