@@ -67,6 +67,6 @@ PHP-Nuke was more aesthetically interesting as a Content Management System in my
 In my humble opinion, these are all foundational technologies that should be open-sourced, dependent on the product or source-available as reasonable licenses and business models prevail.  I believe this was touched on during a great discussion with Lex Fridman and Pieter Levels and I think I agreed greatly with Pieter on that sentiment: 
 https://youtu.be/oFtjKbXKqbg?si=RNYb-qXKW56ps4Vp&t=7014
 
-I also liked Notepad++ on Windows XP, and I learned to Code cash registers in Visual Basic in high school, I always tried to focus, but watch out for those darn CD-ROM drives, 
-I guess they make a nice cup holder? :P They are obviously cup olders and not sandwhich meat rays for balogna.
+I also liked Notepad++ on Windows XP, and I learned to code cash registers in Visual Basic in high school, I always tried to focus, but watch out for those darn CD-ROM drives, 
+I guess they make a nice cup holder? :P They are obviously cup holders, and not sandwich meat trays for balogna.
 </details>
