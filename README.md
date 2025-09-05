@@ -1,4 +1,6 @@
-
+I believe in inspiring anyone from any industry to pursue Computer Science, <br>
+[here is a great video on that I highly encourage you share](https://www.youtube.com/watch?v=nKIu9yen5nc), <br>
+and not to be discouraged by its perceived complexity, thank you for stopping by.
 
 
 https://github.com/user-attachments/assets/f9052dec-6592-429c-af35-b93ebf241fba
@@ -10,6 +12,4 @@ the assets from the original release no longer exist but the community has been 
 
 (I also have a [this here](https://github.com/jimbrend/jimbrend) where I e-mailed to myself nearly all of my first homework to my own e-mail I self-hosted)</details>
 
-I believe in inspiring anyone from any industry to pursue Computer Science, <br>
-[here is a great video on that I highly encourage you share](https://www.youtube.com/watch?v=nKIu9yen5nc), <br>
-and not to be discouraged by its perceived complexity, thank you for stopping by.
+
