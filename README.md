@@ -6,6 +6,8 @@
 
 ### Thank you for stopping by.
 
+Here is also my [writings](https://jimsuley.substack.com/p/notes-on-computers) on computer architecture
+
 
 
 
