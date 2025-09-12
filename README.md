@@ -11,7 +11,7 @@ I built over 20+ websites by the time I was a sophomore in high school.
 
 ### Thank you for stopping by.
 
-Here are also my [writings](https://jimsuley.substack.com/p/notes-on-computers) on computer architecture.
+//Here are also my [writings](https://jimsuley.substack.com/p/notes-on-computers) on computer architecture.
 
 
 
