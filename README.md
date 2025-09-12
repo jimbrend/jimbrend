@@ -1,5 +1,5 @@
 
-Hello, my name's James but I've always gone by Jim.<br>
+Hi, my name's James but I've always gone by Jim.<br>
 I built over 20+ websites by the time I was a sophomore in high school.
 
 ## I believe in inspiring anyone from any industry to pursue Computer Science, and not be discouraged by its perceived complexity. 
