@@ -1,5 +1,5 @@
 
-Hi ntmu, I'm Jim, I'm a US citizen and a native English speaker, fluent Turkish and was born in CA, four short years later I moved to NC.<br>
+Hi ntmu, I'm Jim, I'm fluent in turkish but a native English speaker and US Citizen born in CA, four short years later I moved to NC among other places.<br>
 I built over 20+ websites by the time I was a sophomore in high school.
 You may know me as usernameisjim from the lightning network communities, or other companies such as Apple where I began WFH then worked on-site...
 I'm currently open to new offers, and am working on grad studies and looking forward to new projects here or anything relevant I'm able to share publicly here.
