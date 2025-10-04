@@ -1,3 +1,4 @@
+Hi my names James but I've always gone by Jim, something fun about me is I live in Turkey for a while and I built 20+ websites by the time I was a sophomore in high school.
 ## I believe in inspiring anyone from any industry to pursue Computer Science, and not be discouraged by its perceived complexity. 
 <br>
 
