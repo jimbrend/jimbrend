@@ -15,8 +15,8 @@ The Sunbird Community Discord, an open community for Entrepreneurs, Techies, and
 https://discord.gg/r53rsTvqQX 
 (next project on the docket there is FiveM servers...)
 
-// https://sunbirdcomputers.com/ 
-https://sunbirdcomputer.com/ (temporarily down)
+// https://sunbirdcomputers.com/ <br>
+https://sunbirdcomputer.com/ (temporarily down)<br>
 https://x.com/sunbirdcomputer
 //https://x.com/bitcointeas
 //https://taskbitcoin.com/
