@@ -17,13 +17,13 @@ https://discord.gg/r53rsTvqQX
 
 // https://sunbirdcomputers.com/ <br>
 https://sunbirdcomputer.com/ (temporarily down)<br>
-https://x.com/sunbirdcomputer
-//https://x.com/bitcointeas
-//https://taskbitcoin.com/
-//https://x.com/bitcoincookie
-https://bitcoincookie.com/
-//https://x.com/taprootmarket
-https://www.taprootmarketplace.com/
+https://x.com/sunbirdcomputer<br>
+//https://x.com/bitcointeas<br>
+//https://taskbitcoin.com/<br>
+//https://x.com/bitcoincookie<br>
+https://bitcoincookie.com/<br>
+//https://x.com/taprootmarket<br>
+https://www.taprootmarketplace.com/<br>
 
 
 
