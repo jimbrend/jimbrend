@@ -9,21 +9,7 @@ Hi my names James but I've always gone by Jim, something fun about me is I lived
 
 //Here are also my [writings](https://jimsuley.substack.com/p/notes-on-computers) on computer architecture.
 
-If you would like to work with me on any of these projects please let me know, feel free to message me anywhere and express interest.  
 
-The Sunbird Community Discord, an open community for Entrepreneurs, Techies, and Content Creators:
-https://discord.gg/r53rsTvqQX 
-(next project on the docket there is FiveM servers...)
-
-// https://sunbirdcomputers.com/ <br>
-https://sunbirdcomputer.com/ (temporarily down)<br>
-https://x.com/sunbirdcomputer<br>
-//https://x.com/bitcointeas<br>
-//https://taskbitcoin.com/<br>
-//https://x.com/bitcoincookie<br>
-https://bitcoincookie.com/<br>
-//https://x.com/taprootmarket<br>
-https://www.taprootmarketplace.com/<br>
 
 
 
