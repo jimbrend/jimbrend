@@ -29,7 +29,7 @@ the most recent was scraped with a robots.txt and you can find it on the wayback
 
 as well as easterncustoms.com, a MD computer business 
 
-I've had several affiliations with e-mails currently not active myname@rockstargames.com, @ubisoft.com, @apple.com, @strike.me, @umbrel.com, @swan.com, @credible.com, @charter.com
+I've had several affiliations with e-mails currently not active like my name @ rockstargames.com, @ubisoft.com, @apple.com, @strike.me, @umbrel.com, @swan.com, @credible.com, @charter.com
 if you want to e-mail me on those or have past interactions, don't have access to those now.
 
 My best e-mail if you would like to send me one is jim@sunbirdcomputer.com right now for business inquiries, I usually communicate with other businesses or for offers on personal details not shared here.
