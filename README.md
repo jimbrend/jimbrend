@@ -23,7 +23,7 @@ dajwebs.com: a community i made for friends and e-mailed homework to myself
 mxodreamwarriors.com: a Matrix Online community as shown in screenshot above built with HTML at the time and some forums, edited a clantemplates.com template and character renders that would load on page load and render in
 
 NBK was a Call of duty 1 and United Offensive modding community I was also a part of that led me to some of my first roles, I would edit animations in signatures in .swf
-I used PHP-Nuke and edited plugins for: soulsofthefire.com a Guild Wars 2 community.  I was indeed also a member of KSI, and several other eSports teams... including [my own](https://www.challengermode.com/teams/e5db006c-5a5a-e811-80c3-000d3a2234e3) where i competed and launching some new things in Discord below...
+I used PHP-Nuke and edited plugins for: soulsofthefire.com a Guild Wars 2 community.  I was indeed also a member of KSI, and several other eSports teams... including [my own](https://www.challengermode.com/teams/e5db006c-5a5a-e811-80c3-000d3a2234e3) where I [competed](https://tr.ee/t1rZn1RB7T) and launching some new things in Discord below...
 
 and used Enjin CMS before it was deprecated for: checkered-raven.com it was a Neverwinter guild
 
@@ -62,7 +62,7 @@ https://www.lingotune.ai/
 
 https://www.lightning.news
 
-[A community and entrepreneurial discord if you'd like to join open to everyone](https://discord.gg/FQN4PETeva) to contribute if you want just reach out, can also ping me for anything interesting, my website is also on the left tab that links to socials.
+[A community and entrepreneurial discord if you'd like to join open to everyone](https://discord.gg/FQN4PETeva) to contribute if you want just reach out, can also ping me for anything interesting, my website is also on the left tab that links to socials. It's selfhosted at https://jimsbr.com, there's also a linktree here with some vlogs: https://linktr.ee/usernameisjim
 
 I had an interative random spotify link here or you can just click into this, it has my npub and plays an embedded song via wavlake:
 https://primal.net/e/nevent1qqstqak4jetrp9j7ezv3qsxq4vcvy9f8gp28n0ftw506jncpqk2vtwsr77sew
