@@ -12,7 +12,9 @@ Hi my names James but I've always gone by Jim, something fun about me is I lived
 Here are some more things, you can use AI to copy any text in this image:
 ![871B39B0-EBC1-4A99-BDC2-529C16D600D6](https://github.com/user-attachments/assets/3f776287-f130-44a8-9e51-16e85fcd8389)
 
-This is a .gif in .mp4 format:
+Me superjumping (in the emulator of previously released and inactive MxO as detailed above: https://www.twitch.tv/usernameisjim/clip/PopularTangibleWatermelonANELE-Em9lLEeK0FM98-ki)
+
+This is also a .gif (I say gif not jif) in .mp4 format:
 https://github.com/user-attachments/assets/54546d6e-9b14-4efc-8df7-fec807c5c6e2
 
 Other things I had worked on:
