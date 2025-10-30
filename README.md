@@ -41,6 +41,8 @@ https://sunbirdcomputer.com/
 
 https://x.com/sunbirdcomputer
 
+https://www.gamingcomputer.bitcoin (this one does not resolve for most browsers yet it uses [unstoppable domains](https://unstoppabledomains.com/))
+
 //https://x.com/bitcointeas
 
 //https://taskbitcoin.com/
@@ -58,3 +60,6 @@ https://www.lingotune.ai/
 https://www.lightning.news
 
 [A community and entrepreneurial discord if you'd like to join open to everyone](https://discord.gg/FQN4PETeva) to contribute if you want just reach out, can also ping me for anything interesting, my website is also on the left tab that links to socials.
+
+I had an interative random spotify link here or you can just click into this, it has my npub and plays an embedded song via wavlake:
+https://primal.net/e/nevent1qqstqak4jetrp9j7ezv3qsxq4vcvy9f8gp28n0ftw506jncpqk2vtwsr77sew
