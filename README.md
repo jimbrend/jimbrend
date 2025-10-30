@@ -35,6 +35,7 @@ if you want to e-mail me on those or have past interactions, don't have access t
 My best e-mail if you would like to send me one is jim@sunbirdcomputer.com right now for business inquiries, I usually communicate with other businesses or for offers on personal details not shared here.
 
 Some more projects and things I am working on:
+
 // https://sunbirdcomputers.com/ 
 
 https://sunbirdcomputer.com/ 
