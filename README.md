@@ -31,7 +31,7 @@ as well as easterncustoms.com, a MD computer business
 I've had several affiliations with e-mails currently not active like my name @ rockstargames.com, @ubisoft.com, @apple.com, @strike.me, @umbrel.com, @swan.com, @credible.com, @charter.com
 if you want to e-mail me on those or have past interactions, don't have access to those now.
 
-My best e-mail if you would like to send me one is jim@sunbirdcomputer.com right now for business inquiries for my own content creation like twitch streamers share or side projects, I usually communicate with other businesses or for offers on personal details not shared here currently or directly with active work e-mail...
+My best e-mail if you would like to send me one is jim@sunbirdcomputer.com right now for business inquiries for my own content creation like twitch streamers share or side projects, I usually communicate with other businesses or for offers on personal details not shared here currently or directly with active work e-mail...  I am reachable as well currently at jim@lingotune.ai
 
 Some more projects and things I am working on:
 
