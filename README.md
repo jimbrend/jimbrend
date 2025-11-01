@@ -15,9 +15,6 @@ One of the first websites I made was dajwebs.com, a community i made for friends
 
 Me superjumping (in the emulator of a previously released and inactive MxO title as detailed more below): https://www.twitch.tv/usernameisjim/clip/PopularTangibleWatermelonANELE-Em9lLEeK0FM98-ki)
 
-This is also a .gif (I say gif not jif) in .mp4 format:
-https://github.com/user-attachments/assets/54546d6e-9b14-4efc-8df7-fec807c5c6e2
-
 
 ![66F1F2F9-FC50-46F4-B484-0D3DE144EBB4](https://github.com/user-attachments/assets/eddc2329-6d87-4ee1-aac1-71675dd3b8af)
 mxodreamwarriors.com: a Matrix Online community (from  the PC game The Matrix Online as shown in screenshot above) built with HTML at the time and some forums, edited a clantemplates.com template and character renders that would load in on page load and render in with different animations which was cool.
