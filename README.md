@@ -65,5 +65,5 @@ My website is also on the left tab of this GitHub profile page that links to my 
 
 [A community and entrepreneurial discord if you'd like to join open to everyone](https://discord.gg/FQN4PETeva) to contribute if you want just reach out, can also ping me for anything interesting there.
 
-I had an interative random spotify link here or you can just click into this, it has my npub and plays an embedded song via wavlake:
+I had an interative random spotify link here or you can just click into this, it has my npub and plays an embedded song via [wavlake](https://github.com/wavlake):
 https://primal.net/e/nevent1qqstqak4jetrp9j7ezv3qsxq4vcvy9f8gp28n0ftw506jncpqk2vtwsr77sew
