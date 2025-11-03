@@ -59,7 +59,7 @@ https://www.taprootmarketplace.com/
 
 //https://www.lingotune.ai/
 
-https://www.lightning.news
+//https://www.lightning.news
 
 My website is also on the left tab of this GitHub profile page that links to my socials. It's self-hosted at jimsbr.com, there's also another linktree here with some vlogs: https://linktr.ee/usernameisjim
 
