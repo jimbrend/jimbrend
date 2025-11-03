@@ -33,7 +33,7 @@ if you want to e-mail me on those or have past interactions, don't have access t
 
 My best e-mail if you would like to send me one is jim@sunbirdcomputer.com right now for business inquiries for my own content creation like twitch streamers share or side projects, I usually communicate with other businesses or for offers on personal details not shared here currently or directly with active work e-mail...  I am reachable as well currently at jim@lingotune.ai
 
-Some more projects and things I am working on:
+Some more side projects and things I am working on:
 
 // https://sunbirdcomputers.com/ 
 
