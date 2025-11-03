@@ -55,9 +55,9 @@ https://bitcoincookie.com/
 
 https://www.taprootmarketplace.com/
 
-https://www.youtubefloater.com
+//https://www.youtubefloater.com
 
-https://www.lingotune.ai/
+//https://www.lingotune.ai/
 
 https://www.lightning.news
 
